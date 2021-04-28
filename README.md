@@ -1,8 +1,8 @@
 # yoshop_webapp
 E-commerce  MERN Webapp 
 ## 1. Run Backend
-$npm install 
-$npm start
+npm install
+npm start
 ## 2. Run Frontend
 $npm install
 $npm start
