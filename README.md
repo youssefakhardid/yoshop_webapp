@@ -20,4 +20,6 @@ E-commerce  MERN Webapp
 ![image](https://user-images.githubusercontent.com/41529098/116336068-7056cf80-a7c7-11eb-8e39-150177b528f2.png)
 ## Shipping Page
 ![image](https://user-images.githubusercontent.com/41529098/116336099-81074580-a7c7-11eb-833a-24dc0e476ecd.png)
+## Place Order Page
+![image](https://user-images.githubusercontent.com/41529098/116336187-abf19980-a7c7-11eb-85cf-5becdad21744.png)
 
