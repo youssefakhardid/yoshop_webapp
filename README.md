@@ -1,10 +1,10 @@
 # yoshop_webapp
 E-commerce  MERN Webapp 
 ## 1. Run Backend
-$ npm install
+$ npm install /n
 $ npm start
 ## 2. Run Frontend
-$ npm install
+$ npm install /n
 $ npm start
 ## home page
 ![image](https://user-images.githubusercontent.com/41529098/116333890-d3466780-a7c3-11eb-954c-5538ef5a7076.png)
